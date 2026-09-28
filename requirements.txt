@@ -1,0 +1,7 @@
+# Runtime dependencies for the deployed app (the pipeline results are committed in artifacts/).
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15
+scipy>=1.11
+plotly>=5.24
+streamlit>=1.40
