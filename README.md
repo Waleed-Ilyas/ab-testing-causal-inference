@@ -7,7 +7,7 @@ reduction, three uplift models (**S/T/X-learners**) compared on a **Qini curve**
 value estimate for "who to target," and a labelled simulation showing exactly how much **peeking** at a
 dashboard inflates false positives.
 
-**Live demo:** _added after deployment_ · **Stack:** LightGBM, SciPy, statsmodels, MLflow, Streamlit + Plotly
+**Live demo:** https://ab-testing-causal-inference-jmy9ygtlzunxz8bdxdzvjb.streamlit.app/ · **Stack:** LightGBM, SciPy, statsmodels, MLflow, Streamlit + Plotly
 
 ![Is there an effect?](reports/figures/app_ate.png)
 
